@@ -18,6 +18,7 @@ Le projet comporte les éléments suivants :
 ├── Test.java                # Programme principal avec menu interactif pour gérer les notes
 
 **Contributions**
+
 -***Mbomegni Nana Carole*** : Conception de la structure de la classe Etudiant à travers la création du modèle objet, définition des attributs et constructeurs, et développement de la sortie console classe (Test).
 
 -***Roslin Ivan Jouanang Komguep*** : Implémentation de la gestion des étudiants (GestionEtudiants) et conception du fichier de données (Notes_Etudiants).
