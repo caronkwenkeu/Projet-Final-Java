@@ -16,7 +16,7 @@ Il contient la structure initiale des classes nécessaires à la modélisation d
 Gestion des Notes des Étudiants Contributeurs
 Mbomegni Nana Carole : Conception de la structure des classes (Etudiant.java), création du modèle objet, définition des attributs et constructeurs.
 
-Roslin Ivan Jouanang Komguep : Implémentation de la gestion des étudiants (GestionEtudiants.java), lecture des fichiers CSV, calcul des moyennes, tri des étudiants, et **********************développement de l’interface console (Test.java).***************
+Roslin Ivan Jouanang Komguep : Implémentation de la gestion des étudiants (GestionEtudiants.java), lecture des fichiers CSV, calcul des moyennes, tri des étudiants, et **********************développement de l’interface console (Main.java).***************
 ├── Etudiant.java            # Classe représentant un étudiant avec matricule, nom, cours et note
 ├── GestionEtudiants.java    # Classe gérant la liste d'étudiants, import/export des données, calculs
 ├── Notes_Etudiants.csv      # Fichier CSV contenant les notes des étudiants
