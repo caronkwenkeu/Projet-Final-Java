@@ -8,6 +8,7 @@ Il contient la structure initiale des classes nécessaires à la modélisation d
 - Classe principale pour exécuter l'application
   
 Le projet comporte les éléments suivants :
+
 ├── Etudiant.java            # Classe représentant un étudiant avec matricule, nom, cours et note
 
 ├── GestionEtudiants.java    # Classe gérant la liste d'étudiants, import/export des données, calculs
