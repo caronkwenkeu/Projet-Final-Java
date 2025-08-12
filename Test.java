@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Test {
+public class Main {
     public static void main(String[] args) {
         GestionEtudiants gestion = new GestionEtudiants();
 
@@ -68,3 +68,4 @@ public class Test {
         }
     }
 }
+
