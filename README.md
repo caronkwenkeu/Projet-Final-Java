@@ -9,12 +9,16 @@ Il contient la structure initiale des classes nécessaires à la modélisation d
   
 Le projet comporte les éléments suivants :
 ├── Etudiant.java            # Classe représentant un étudiant avec matricule, nom, cours et note
+
 ├── GestionEtudiants.java    # Classe gérant la liste d'étudiants, import/export des données, calculs
+
 ├── Notes_Etudiants.csv      # Fichier CSV contenant les notes des étudiants
+
 ├── Test.java                # Programme principal avec menu interactif pour gérer les notes
 
 **Contributions**
 -***Mbomegni Nana Carole*** : Conception de la structure de la classe Etudiant à travers la création du modèle objet, définition des attributs et constructeurs, et développement de la sortie console classe (Test).
+
 -***Roslin Ivan Jouanang Komguep*** : Implémentation de la gestion des étudiants (GestionEtudiants) et conception du fichier de données (Notes_Etudiants).
 
 **Description des fichiers**
